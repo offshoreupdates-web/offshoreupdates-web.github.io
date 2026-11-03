@@ -1,0 +1,8 @@
+{
+    "version":  "0.12",
+    "notes":  [
+                  "Updates from offshoreupdates-web.github.io/offshore: Offshore tells you when a new version is out, and Install now downloads it, checks it\u0027s the real Offshore and opens Fire TV\u0027s install prompt"
+              ],
+    "apk":  "https://offshoreupdates-web.github.io/offshore/offshore-0.12.apk",
+    "sha256":  "0c783a7f2f7755ad09a62990c22d3e5e677df8a5320a550e67e95dc6f14d836f"
+}

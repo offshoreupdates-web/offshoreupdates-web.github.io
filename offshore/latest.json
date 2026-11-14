@@ -1,8 +1,10 @@
 {
-    "version":  "0.13",
-    "notes":  [
-                  "Update check: if this arrived through Install now, updating from the site works"
-              ],
-    "apk":  "https://offshoreupdates-web.github.io/offshore/offshore-0.13.apk",
-    "sha256":  "99140da9866af3e0f8d5e0e770a12194bcd637325290219994844dd158dfaf57"
+  "version": "0.15",
+  "notes": [
+    "Tidy up Fire TV (Settings › Fire TV): choose the Amazon extras you don't use, like shopping, promotions, tutorials and viewing recognition, and the one-time computer step switches them off. Nothing is uninstalled, and each can be switched back on",
+    "Switch off Amazon's own screensaver, the one with ads, right from Tidy up Fire TV",
+    "The Music button on the bottom bar is an icon like the others; its name shows when you highlight it"
+  ],
+  "apk": "https://offshoreupdates-web.github.io/offshore/offshore-0.15.apk",
+  "sha256": "6af6c458a70381942ed3522c2a46b99011f8591d44788abd0a7aea98756ea108"
 }

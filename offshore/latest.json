@@ -1,22 +1,10 @@
 {
-  "version": "0.17",
+  "version": "0.18",
   "notes": [
-    "Radio: free radio stations, with the ones near you first (with their frequency and town), your state, News & talk, Sports, Country and more, and search. Add favorites with ☰ and see what's on in the bottom bar",
-    "Backgrounds: keep one photo on screen, like one live video. Open a photo set in Settings › Appearance › Backgrounds › Photos and pick “Take turns” or any single photo, shown behind the list as you move",
-    "Radio: a Holiday section with Christmas music stations, at the top of Radio through the season. Stations that list an older link now find their secure one, and the one that works is remembered",
-    "Appearance: new looks for the glass (Frosted, Clear, Smoky or Solid), rounder or crisper app tiles, bright or dimmed tiles, how the highlight moves (lift, gentle lift or glow), and Reduced motion",
-    "Weather on the background: light rain, snow or fog drifts over the photo while it's really happening outside. Settings › Appearance turns it off",
-    "Big clock: a large, thin clock straight on the photo, like a lock screen. Settings › Home screen › Clock style",
-    "Full screen Now playing: the album cover big with the song, or the radio station, filling the screen. From the music card, or by itself after a minute of music",
-    "Keep watching: a row over your apps with what you had on lately: the show you were watching in Plex, Fox One and your other apps (with how far you got), plus Live TV channels, radio stations and videos. OK opens the app; hold OK to remove one. It shows what belongs to the app you're on (your Plex shows over Plex), or everything in one row if you like (Settings › Home screen › Keep watching)",
-    "Plex: link your Plex account in Settings › Home screen › Keep watching › Plex (a code you enter at plex.tv/link, so Offshore never sees your password) and your Plex Continue watching shows on Keep watching",
-    "Fox One show names (Settings › Home screen › Keep watching, off at first): Fox One doesn't say what it plays, so Offshore can read the show's name off its screen for the Keep watching card, and shows the channel (FOX News, FS1…) when it can tell for sure",
-    "Appearance and Home screen settings now show each change on the home as you make it, with the list beside it",
-    "Your cards: countdowns (a trip, a birthday), notes and web links on the home screen. Settings › Home screen › Your cards",
-    "Your own app pictures: hold OK on a tile › Change picture, and pick any photo on the TV (send one from your phone with Share)",
-    "Radio plays stations that only stream without encryption too",
-    "Lighter home for slower TVs: no blur or effects. Automatic turns it on only on a TV that's short of memory or draws the home slowly"
+    "Security: a full review of the app. Text from radio station lists is handled more strictly, the home screen refuses any outside script, and the radio relay keeps away from your home network",
+    "Privacy: the settings backup no longer includes what you watched or listened to",
+    "Settings › Home screen › Keep watching: Keep watching, Plex and Fox One show names together in one place"
   ],
-  "apk": "https://offshoreupdates-web.github.io/offshore/offshore-0.17.apk",
-  "sha256": "d01fc294f004918799cccae0b95a0cc0634bb404ab0aabe3444c917889fec6b7"
+  "apk": "https://offshoreupdates-web.github.io/offshore/offshore-0.18.apk",
+  "sha256": "6e7d540ee11f4f2201a56eeae4aa3f78366980273ec6dccd055d58d86f39743b"
 }

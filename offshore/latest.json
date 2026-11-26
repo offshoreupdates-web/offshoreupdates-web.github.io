@@ -1,21 +1,8 @@
 {
-  "version": "0.19",
+  "version": "0.19.1",
   "notes": [
-    "Backgrounds from NASA, The Met, the Art Institute of Chicago and the Library of Congress, alongside Wikimedia Commons",
-    "Search for photos across all five sources, and search for live videos on Wikimedia Commons and NASA",
-    "Live backgrounds play again",
-    "Sound output shows what your TV or sound system really gets: stereo, or the surround format when surround is on",
-    "Keep watching now includes YouTube and Amazon's other video apps",
-    "The app name sits in the right place when there's no Keep watching row, and weather alerts sit under the clock",
-    "Offshore is open source under the GNU GPL, with every library and source credited in About. The code, ideas and fixes: github.com/offshoreupdates-web/offshore-tv",
-    "Live video, rebuilt: 66 sets in 14 groups (beaches, underwater, wildlife, weather, sky and space, cities, an aerial world tour, national parks, scenic drives and trains, sports, cozy, abstract art, holidays), with hand-picked Creative Commons videos from YouTube, credited to each channel",
-    "Today's weather plays the sky outside (rain, snow, fog, clouds or stars), and Near you shows videos of your own town",
-    "Any YouTube video as a background: search or paste a link, pick where it starts and how long it runs (up to 30 minutes, 10 in 4K), and whether its sound comes too",
-    "Background sound: a quiet fire, rain or waves from videos saved with sound, silent while music plays. Settings › Backgrounds › Live video › Sound turns it on or off",
-    "Video quality is one setting: 1080p, or 4K when the TV is set to 4K",
-    "Setup shows which extras are still off and the exact command to switch them on from a computer",
-    "Updates now come from the offshore-tv project on GitHub"
+    "Fixes 0.19 stopping at start-up (a photo and nothing else on screen) when the background photo came from NASA, The Met, the Art Institute of Chicago or the Library of Congress"
   ],
-  "apk": "https://offshoreupdates-web.github.io/offshore/offshore-0.19.apk",
-  "sha256": "e4d30637dadc2d738562a68fc98031b90cb24d89acc71fe619babfc390c1d439"
+  "apk": "https://offshoreupdates-web.github.io/offshore/offshore-0.19.1.apk",
+  "sha256": "e2f3c8c7252f9e85dc4e96ee64a6719c67be3e9134a507b80022ab9658d81835"
 }
